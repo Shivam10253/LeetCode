@@ -6,7 +6,6 @@ My solutions to LeetCode problems, written in Java.
 - Arrays
 - Strings
 - Recursion
-- Data Structures and Algorithms
 
 ## Language
 - Java
