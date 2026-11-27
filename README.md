@@ -14,12 +14,13 @@ My solutions to LeetCode problems, written in Java.
 
 ## 📊 Progress
 
-**Total Solved: 2**
+**Total Solved: 3**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 1 |
 | Mathematics | 1 |
+| Bit-Manipulation | 1 |
 
 ## Array
 
@@ -30,5 +31,10 @@ My solutions to LeetCode problems, written in Java.
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220292%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Nim Game](https://leetcode.com/problems/nim-game/)
+
+## Bit-Manipulation
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220461%22%2C%22topic%22%3A%22Bit-Manipulation%22%7D -->
+- [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 
 <!-- DSA-GRINDHUB:END -->
